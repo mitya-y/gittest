@@ -1,0 +1,5 @@
+api servis key: f9c1f182f9c1f182f9c1f18245fad9c27fff9c1f9c1f1829ffd502e89bcd99066f8a633
+secret key: ELZQmjsF1N4S5KxWPi5X
+client id: 51917821
+
+https://oauth.vk.com/authorize?client_id=51917821&redirect_uri=https://oauth.vk.com/blank.hmtl&scope=friends&response_type=token&display=page
